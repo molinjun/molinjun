@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am Dennis Ge, you can call me Molin. I'm a software engineer at Promethean World focusing on IoT and serverless web applications.
 
-- 🔭 I’m currently working on **USB HID with C++ and QT**
+- 🔭 I’m currently working on **Golang and Serverless**
 - 🌱 I’m currently **learning AWS**
 - 💬 Ask me about [Node.js]() and [Serverless]() and [AWS]()
 
