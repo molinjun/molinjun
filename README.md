@@ -49,5 +49,5 @@ Find out more about me & feel free to connect with me.
 
 ## GitHub Stats
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gedennis.gedennis)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gedennis&count_private=true&show_icons=true&include_all_commits=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=molinjun.molinjun)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=molinjun&count_private=true&show_icons=true&include_all_commits=true)
