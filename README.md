@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## About
 
 I'm Molin (莫林), a software engineer.
